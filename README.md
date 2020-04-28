@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to MJ'S Pages
 
-You can use the [editor on GitHub](https://github.com/mj7surya/mjsurya/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can follow me on instagram [instagram](https://instagram.com/mjsurya_?igshid=1x9brt4fyri00) to view and preview the latest updates for your own personalized websites.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this sites, we will help you to rebuild the pages in your site, with any updates.
 
-### Markdown
+### About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+we provide websites with customised features and with any templete designs.
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details [email](mj7surya@gmail.com).
 
 ### Jekyll Themes
 
